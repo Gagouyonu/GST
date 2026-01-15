@@ -27,7 +27,36 @@
     "appid": 2827200,
     "link": "https://github.com/Gagouyonu/GST/raw/refs/heads/main/MIMESIS_Fix_Repair_Steam_Generic.zip"
   }
+   {
+    "appid": 218620,
+    "link": "https://github.com/Gagouyonu/GST/raw/refs/heads/main/PAYDAY2_Fix_Repair_Epic.zip"
+  },
+  {
+    "appid": 1272080,
+    "link": "https://github.com/Gagouyonu/GST/raw/refs/heads/main/PAYDAY3_Fix_Repair_Steam_V9_Generic.zip"
+  },
+   {
+    "appid": 24240,
+    "link": "https://github.com/Gagouyonu/GST/raw/refs/heads/main/PAYDAYTheHeist_Fix_Repair_Steam_Generic.zip"
+  },
+   {
+    "appid": 648800,
+    "link": "https://github.com/Gagouyonu/GST/raw/refs/heads/main/Raft_Fix_Repair_Steam_V5_Generic.zip"
+  },
+   {
+    "appid": 1159690,
+    "link": "https://github.com/Gagouyonu/GST/raw/refs/heads/main/Voidtrain.zip"
+  },
+   {
+    "appid": appid,
+    "link": "link"
+  },
+   {
+    "appid": appid,
+    "link": "link"
+  }
 ]
+
 
 
 
