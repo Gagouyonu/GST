@@ -1,11 +1,50 @@
-{
-  "id": 0,
-  "fr": {
-    "titre": "Bienvenue",
-    "message": "Bienvenue sur Distill !"
+[
+  {
+    "id": 0,
+    "actif": false,
+    "fr": {
+      "titre": "Bienvenue",
+      "message": "Bienvenue sur Distill !"
+    },
+    "en": {
+      "titre": "Welcome",
+      "message": "Welcome to Distill !"
+    }
   },
-  "en": {
-    "titre": "Welcome",
-    "message": "Welcome to Distill !"
+  {
+    "id": 1,
+    "actif": true,
+    "fr": {
+      "titre": "Nouveauté : Mode Sombre",
+      "message": "Tes yeux vont nous remercier ! Le mode sombre est enfin disponible."
+    },
+    "en": {
+      "titre": "New: Dark Mode",
+      "message": "Your eyes will thank us! Dark mode is finally available."
+    }
+  },
+  {
+    "id": 2,
+    "actif": false,
+    "fr": {
+      "titre": "Maintenance demain",
+      "message": "Le serveur sera en pause café demain à 14h."
+    },
+    "en": {
+      "titre": "Maintenance Tomorrow",
+      "message": "The server will be on a coffee break tomorrow at 2 PM."
+    }
+  },
+  {
+    "id": 3,
+    "actif": true,
+    "fr": {
+      "titre": "Alerte de sécurité",
+      "message": "Attention ! Quelqu'un est en train de coder un super logiciel... Ah c'est toi."
+    },
+    "en": {
+      "titre": "Security Alert",
+      "message": "Warning! Someone is coding an awesome software... Oh wait, it's you."
+    }
   }
-}
+]
