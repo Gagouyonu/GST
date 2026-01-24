@@ -1,1 +1,11 @@
-
+{
+  "id": 0,
+  "fr": {
+    "titre": "Bienvenue",
+    "message": "Bienvenue sur Distill !"
+  },
+  "en": {
+    "titre": "Welcome",
+    "message": "Welcome to Distill !"
+  }
+}
