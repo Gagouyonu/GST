@@ -1,6 +1,6 @@
-version: 4.2.0
+version: 4.1.0
 files:
-  - url: https://github.com/Gagouyonu/GST/releases/download/v4.1.0/distill-setup.exe
+  - url: https://github.com/Gagouyonu/GST/releases/download/v4.0/distill-setup.exe
     sha512: 3ECRv8IC4J0oCDk3BHTOJaCWW3nx2yFqXkQolF9YFz2iLLFq56zXl6B38Y/DMpk37AbLdgEEmoYiUzJRGpXPxg==
     size: 420941044
 path: distill-setup.exe
