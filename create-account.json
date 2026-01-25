@@ -1,1 +1,12 @@
-
+{
+  "notifications": {
+    "fr": {
+      "title": "Créer un compte !",
+      "description": "Installer un compte pour bénéficier des sauvegardes Cloud de vos favoris, de vos jeux et de vos Online-Fix installés !"
+    },
+    "en": {
+      "title": "Create an account!",
+      "description": "Create an account to enjoy Cloud backups for your favorites, your games, and your installed Online-Fixes!"
+    }
+  }
+}
