@@ -9,9 +9,10 @@
     "en": {
       "titre": "Welcome",
       "message": "Welcome to Distill !"
-    },
-    {
-    "id": 0.1,
+    }
+  },
+  {
+    "id": 1,
     "actif": true,
     "fr": {
       "titre": "Créer un compte !",
@@ -21,5 +22,5 @@
       "titre": "Create an account !",
       "message": "Create an account to enjoy Cloud backups for your favorites, your games, and your installed Online-Fixes!"
     }
-  } 
+  }
 ]
