@@ -1,8 +1,0 @@
-version: 5.0.0
-files:
-  - url: https://github.com/Gagouyonu/GST/releases/download/win-unpacked/Distill.zip
-    sha512: rZcr82CauJT70eYYKad1gxDU+NLjaO3gbMcp290+qTQCVsYnhskMjxyTbnNxFMK+XdgAJl4ubcmFSlb3LImYKQ==
-    size: 421023023
-path: distill-setup.exe
-sha512: rZcr82CauJT70eYYKad1gxDU+NLjaO3gbMcp290+qTQCVsYnhskMjxyTbnNxFMK+XdgAJl4ubcmFSlb3LImYKQ==
-releaseDate: '2026-01-29T21:31:13.743Z'
