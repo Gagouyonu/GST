@@ -1,4 +1,4 @@
-version: 4.0.0
+version: 5.0.0
 files:
   - url: https://github.com/Gagouyonu/GST/releases/download/win-unpacked/Distill.zip
     sha512: rZcr82CauJT70eYYKad1gxDU+NLjaO3gbMcp290+qTQCVsYnhskMjxyTbnNxFMK+XdgAJl4ubcmFSlb3LImYKQ==
