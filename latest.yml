@@ -1,4 +1,4 @@
-version: 6.0.0
+version: 5.0.2
 files:
   - url: https://github.com/Gagouyonu/GST/releases/download/v6.0.0/distill-setup.exe
     sha512: dGhpcyBpcyBhIGZha2UgaGFzaCBmb3IgdGVzdGluZyBwdXJwb3NlcyBvbmx5IQ==
