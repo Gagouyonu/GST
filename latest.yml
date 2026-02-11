@@ -1,8 +1,1 @@
 version: 5.4.4
-files:
-  - url: distill-setup.exe
-    sha512: 60R67Q+L2/tO0OWLSEw6Qo7hDI4KfSwTb5ry3//paCIo4LwD45RSzuiohNW1vJ5pcb3QOXy9utEg+AQspyFVuA==
-    size: 421371457
-path: distill-setup.exe
-sha512: 60R67Q+L2/tO0OWLSEw6Qo7hDI4KfSwTb5ry3//paCIo4LwD45RSzuiohNW1vJ5pcb3QOXy9utEg+AQspyFVuA==
-releaseDate: '2026-02-10T21:16:42.613Z'
