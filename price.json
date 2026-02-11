@@ -1,3 +1,58 @@
 {
-  "price": "0.99€"
+  "currency": "EUR",
+  "tiers": [
+    {
+      "id": "free",
+      "name": "Free",
+      "price": 0,
+      "description": "Pour les joueurs occasionnels.",
+      "features": [
+        "Limited Collections",
+        "Community Support",
+        "Local Backups Only",
+        "Default Avatar"
+      ],
+      "limits": {
+        "collections": 5,
+        "backup_type": "local",
+        "avatar_upload": false
+      }
+    },
+    {
+      "id": "premium",
+      "name": "Premium",
+      "price": 4.99,
+      "description": "L'expérience complète avec votre propre stockage.",
+      "features": [
+        "Unlimited Collections",
+        "Unlimited Support Conversations",
+        "Personal Drive Backups",
+        "Custom Avatar (URL)"
+      ],
+      "limits": {
+        "collections": -1,
+        "backup_type": "user_drive",
+        "avatar_upload": false,
+        "avatar_url": true
+      }
+    },
+    {
+      "id": "ultimate",
+      "name": "Ultimate",
+      "price": 6.99,
+      "description": "Le confort total et le stockage inclus.",
+      "features": [
+        "Unlimited Collections",
+        "Unlimited Support Conversations",
+        "Cloud Backups",
+        "Custom Avatar (Upload/URL)"
+      ],
+      "limits": {
+        "collections": -1,
+        "backup_type": "internal_cloud",
+        "avatar_upload": true,
+        "avatar_url": true
+      }
+    }
+  ]
 }
