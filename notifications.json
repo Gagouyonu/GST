@@ -22,5 +22,17 @@
       "titre": "Create an account !",
       "message": "Create an account to enjoy Cloud backups for your favorites, your games, and your installed Online-Fixes!"
     }
+  },
+  {
+    "id": 1,
+    "actif": true,
+    "fr": {
+      "titre": "Distill Premium",
+      "message": "Avec Distill Premium, obtenez des sauvegardes Cloud pour vos jeux installés avec Distill !"
+    },
+    "en": {
+      "titre": "Distill Premium",
+      "message": "With Distill Premium, get Cloud backups for your games installed with Distill!"
+    }
   }
 ]
