@@ -24,7 +24,7 @@
     "link": "https://github.com/Gagouyonu/GST/releases/download/game-fix/Red.Dead.Redemption.zip"
   },
   {
-    "appid": 271590,
+    "appid": 3240220,
     "link": "https://github.com/Gagouyonu/GST/releases/download/game-fix/Grand.Theft.Auto.5.Enhanced.zip"
   },
   {
@@ -346,5 +346,21 @@
   {
     "appid": 1252330,
     "link": "https://github.com/Gagouyonu/GST/releases/download/game-fix/Riders.Republic.zip"
+  },
+  {
+    "appid": 1903340,
+    "link": "https://github.com/Gagouyonu/GST/releases/download/game-fix/Clair.Obscur.Expedition.33.zip"
+  },
+  {
+    "appid": 2807960,
+    "link": "https://github.com/Gagouyonu/GST/releases/download/game-fix/Battlefield.6.zip"
+  },
+  {
+    "appid": 213670,
+    "link": "https://github.com/Gagouyonu/GST/releases/download/game-fix/South.Park.The Stick.of.Truth.zip"
+  },
+    {
+    "appid": 1222680,
+    "link": "https://github.com/Gagouyonu/GST/releases/download/game-fix/Need.for.Speed.Heat.zip"
   }
 ]
