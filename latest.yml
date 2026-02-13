@@ -1,0 +1,8 @@
+version: 5.5.0
+files:
+  - url: distill-setup.exe
+    sha512: cJTlaCws38A04ZDaH4vGtfw5tHhJ5GZyW2SnVQ3nFgy1wYkVCpFkX/h0iSc7ZnNvSzjD2ZX0ZyygDMMEuPYKQw==
+    size: 101491509
+path: distill-setup.exe
+sha512: cJTlaCws38A04ZDaH4vGtfw5tHhJ5GZyW2SnVQ3nFgy1wYkVCpFkX/h0iSc7ZnNvSzjD2ZX0ZyygDMMEuPYKQw==
+releaseDate: '2026-02-13T14:52:36.205Z'
