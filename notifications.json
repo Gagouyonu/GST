@@ -51,11 +51,11 @@
     "id": 3,
     "actif": true,
     "fr": {
-      "titre": "V6.0 est sortie !",
+      "titre": "V6.0 est sortie ! C'est possible que l'update ne ce soit pas fait automatiquement, vous pouvez aller sur https://distill-tool.vercel.app/ pour réinstaller.",
       "message": "• Fix jeux, FitGirl & Online-Fix\n• Backups Cloud (Abo Ultimate 6.99€/m)\n• Thèmes Cyberpunk, Gaming, Néon\n• Social : Likes, vues, favoris sur collections\n• Mode Tray (DL en arrière-plan)\n• Améliorations graphiques & perfs"
     },
     "en": {
-      "titre": "V6.0 is out!",
+      "titre": "V6.0 is out! It is possible that the update may not have been done automatically, you can go to https://distill-tool.vercel.app/ to reinstall.",
       "message": "• Game fixes, FitGirl & Online-Fix\n• Cloud Backups (Ultimate 6.99€/m)\n• Cyberpunk, Gaming, Neon themes\n• Social: Likes, views, favs on collections\n• Tray mode (Background downloads)\n• Graphics & perf improvements"
     }
   }
