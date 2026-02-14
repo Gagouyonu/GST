@@ -34,5 +34,17 @@
       "titre": "Distill Premium",
       "message": "With Distill Premium, get Cloud backups for your games installed with Distill!"
     }
+  },
+  {
+    "id": 2,
+    "actif": true,
+    "fr": {
+      "titre": "Merci !",
+      "message": "Merci pour les 100 utilisateurs inscrits ! Merci de faire grandir Distill chaque jour."
+    },
+    "en": {
+      "titre": "Thanks !",
+      "message": "Thanks for the 100 registered users! Thank you for making Distill grow every day."
+    }
   }
 ]
