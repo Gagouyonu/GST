@@ -46,5 +46,17 @@
       "titre": "Thanks !",
       "message": "Thanks for the 100 registered users! Thank you for making Distill grow every day."
     }
+  },
+  {
+    "id": 3,
+    "actif": true,
+    "fr": {
+      "titre": "V6.0 est sortie !",
+      "message": "• Fix jeux, FitGirl & Online-Fix\n• Backups Cloud (Abo Ultimate 6.99€/m)\n• Thèmes Cyberpunk, Gaming, Néon\n• Social : Likes, vues, favoris sur collections\n• Mode Tray (DL en arrière-plan)\n• Améliorations graphiques & perfs"
+    },
+    "en": {
+      "titre": "V6.0 is out!",
+      "message": "• Game fixes, FitGirl & Online-Fix\n• Cloud Backups (Ultimate 6.99€/m)\n• Cyberpunk, Gaming, Neon themes\n• Social: Likes, views, favs on collections\n• Tray mode (Background downloads)\n• Graphics & perf improvements"
+    }
   }
 ]
