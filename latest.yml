@@ -1,8 +1,8 @@
 version: 6.0.0
 files:
-  - url: distill-setup.exe
-    sha512: 7/cSzReGF5XArDgHjWqbT3RM+8ZmJ+hTeWjvNex3U7gnltLCgz1TnqXiSoBP/fatwVZzQt3uQofsSpmHo9LNhA==
+  - url: https://github.com/Gagouyonu/GST/releases/download/win-unpacked/distill-setup.exe
+    sha512: U/Tji4QG6bXAnWT0pyNsUhV4heRk2IaKRs3+oti2PitrtC/PheHbdxcmcL6RZnfJRbdeLPWzUsgsQcjcDB2Xsw==
     size: 108925443
 path: distill-setup.exe
-sha512: 7/cSzReGF5XArDgHjWqbT3RM+8ZmJ+hTeWjvNex3U7gnltLCgz1TnqXiSoBP/fatwVZzQt3uQofsSpmHo9LNhA==
+sha512: U/Tji4QG6bXAnWT0pyNsUhV4heRk2IaKRs3+oti2PitrtC/PheHbdxcmcL6RZnfJRbdeLPWzUsgsQcjcDB2Xsw==
 releaseDate: '2026-02-14T20:03:11.379Z'
